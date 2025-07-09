@@ -1,5 +1,5 @@
 
-# Python Programming Assignment — Basics and Coding Exercises
+# Python Programming Assignment - Basics and Coding Exercises
 
 ## Project Overview
 
