@@ -1,5 +1,5 @@
 
-# Estimation and Confidence Intervals — Durability Study of Print-Heads
+# Estimation and Confidence Intervals - Durability Study of Print-Heads
 
 ## Project Overview
 
