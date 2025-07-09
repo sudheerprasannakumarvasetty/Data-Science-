@@ -92,7 +92,7 @@ Given:
 
 ## Summary
 
-- The **Chi-Square test** assessed whether device type and satisfaction are related — a key insight for marketing strategy.
+- The **Chi-Square test** assessed whether device type and satisfaction are related a key insight for marketing strategy.
 - The **Hypothesis test** helped validate claims about operational cost inflation, supporting business decision-making through data.
 
 ---
