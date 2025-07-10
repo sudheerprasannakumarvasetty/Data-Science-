@@ -1,5 +1,5 @@
 
-# Multiple Linear Regression — Toyota Corolla Price Prediction
+# Multiple Linear Regression - Toyota Corolla Price Prediction
 
 ## Project Overview
 
