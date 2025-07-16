@@ -1,5 +1,4 @@
-
-# Logistic Regression - Titanic Survival Prediction (Assignment)
+# Logistic Regression -- Titanic Survival Prediction (Assignment)
 
 This assignment involves building a **Logistic Regression** model to predict survival of passengers aboard the Titanic, based on provided features. The task also includes deploying the model using **Streamlit** for basic user interaction.
 
